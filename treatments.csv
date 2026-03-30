@@ -1,0 +1,172 @@
+treatment_id,appointment_id,diagnosis,treatment_cost
+1,16,Flu,3564.02
+2,280,Fracture,717.49
+3,95,Infection,1961.02
+4,268,Fracture,2624.34
+5,170,Heart Issue,9594.57
+6,160,Heart Issue,5943.89
+7,23,Heart Issue,9360.94
+8,125,Flu,5964.05
+9,107,Heart Issue,5053.87
+10,206,Infection,3480.41
+11,258,Fracture,6260.52
+12,246,Skin Allergy,1822.38
+13,202,Infection,9033.49
+14,105,Infection,8378.66
+15,254,Heart Issue,3516.55
+16,243,Flu,9551.58
+17,267,Fracture,8339.41
+18,26,Flu,6829.92
+19,58,Fracture,1656.74
+20,261,Fracture,5043.22
+21,143,Flu,5308.02
+22,295,Infection,2709.24
+23,297,Fracture,1259.67
+24,276,Flu,7878.87
+25,213,Fracture,1659.33
+26,151,Skin Allergy,6145.76
+27,42,Infection,9396.27
+28,35,Heart Issue,8823.0
+29,251,Fracture,3138.65
+30,24,Skin Allergy,8588.76
+31,78,Heart Issue,503.16
+32,198,Heart Issue,668.03
+33,225,Fracture,6224.26
+34,137,Flu,3965.58
+35,98,Fracture,4171.38
+36,287,Skin Allergy,5862.19
+37,247,Heart Issue,2321.93
+38,218,Fracture,2511.68
+39,141,Flu,5103.72
+40,122,Fracture,7665.41
+41,147,Infection,6385.23
+42,284,Flu,3324.87
+43,85,Skin Allergy,4588.2
+44,114,Heart Issue,2121.32
+45,233,Fracture,1208.98
+46,157,Flu,7935.61
+47,182,Infection,3021.18
+48,139,Flu,2188.78
+49,183,Infection,7070.37
+50,195,Skin Allergy,6371.49
+51,50,Heart Issue,6515.3
+52,34,Skin Allergy,2674.5
+53,97,Fracture,2710.13
+54,172,Flu,2597.62
+55,40,Infection,2150.65
+56,27,Infection,6729.37
+57,262,Flu,8556.15
+58,140,Flu,7381.02
+59,239,Fracture,8024.89
+60,96,Skin Allergy,4345.59
+61,12,Infection,6713.72
+62,194,Fracture,3865.24
+63,79,Skin Allergy,5492.29
+64,283,Fracture,5075.53
+65,249,Infection,2180.43
+66,196,Flu,4177.25
+67,92,Flu,9656.31
+68,156,Skin Allergy,2861.51
+69,257,Heart Issue,1771.14
+70,43,Skin Allergy,4476.52
+71,19,Heart Issue,8008.21
+72,47,Fracture,6030.41
+73,39,Fracture,6969.26
+74,55,Infection,2302.1
+75,119,Heart Issue,6380.01
+76,145,Infection,3573.25
+77,209,Flu,8425.88
+78,72,Heart Issue,6478.34
+79,173,Skin Allergy,2389.13
+80,248,Flu,1113.86
+81,109,Flu,905.02
+82,53,Skin Allergy,4028.38
+83,216,Flu,3025.59
+84,112,Heart Issue,6637.86
+85,181,Infection,5243.67
+86,36,Flu,3027.18
+87,203,Heart Issue,1917.76
+88,161,Fracture,1708.4
+89,178,Heart Issue,8714.27
+90,7,Infection,2813.04
+91,111,Heart Issue,6691.25
+92,60,Skin Allergy,8201.52
+93,227,Infection,6333.77
+94,171,Fracture,8665.87
+95,133,Skin Allergy,4227.74
+96,123,Heart Issue,9584.11
+97,205,Infection,1764.88
+98,48,Fracture,1470.42
+99,289,Skin Allergy,6757.58
+100,86,Fracture,9456.9
+101,30,Heart Issue,8184.39
+102,201,Fracture,1225.96
+103,162,Flu,3153.99
+104,45,Skin Allergy,9338.03
+105,18,Fracture,2904.06
+106,294,Heart Issue,7921.12
+107,256,Heart Issue,8338.76
+108,13,Fracture,5206.79
+109,38,Heart Issue,4170.31
+110,191,Infection,4776.18
+111,290,Infection,2656.16
+112,210,Infection,8949.21
+113,11,Flu,4780.89
+114,44,Fracture,8883.36
+115,165,Flu,1504.09
+116,220,Heart Issue,9888.62
+117,176,Flu,4711.09
+118,219,Heart Issue,954.39
+119,164,Heart Issue,861.21
+120,17,Skin Allergy,7588.97
+121,88,Infection,6760.84
+122,180,Heart Issue,8120.24
+123,221,Skin Allergy,1500.99
+124,252,Infection,837.92
+125,5,Heart Issue,5331.5
+126,273,Heart Issue,4182.15
+127,234,Flu,4888.5
+128,99,Flu,9920.09
+129,241,Infection,9722.12
+130,90,Heart Issue,9452.0
+131,57,Fracture,7946.51
+132,199,Flu,3870.99
+133,52,Infection,4415.24
+134,177,Heart Issue,5721.35
+135,33,Heart Issue,8390.08
+136,263,Fracture,1152.77
+137,222,Infection,4530.82
+138,118,Heart Issue,1284.87
+139,51,Flu,5389.25
+140,298,Fracture,9039.56
+141,62,Infection,7933.61
+142,138,Fracture,2664.5
+143,235,Flu,9771.91
+144,56,Infection,6839.83
+145,211,Fracture,599.06
+146,9,Skin Allergy,2926.43
+147,152,Flu,2976.78
+148,75,Flu,1157.92
+149,192,Flu,9618.35
+150,274,Skin Allergy,5043.43
+151,244,Skin Allergy,9010.24
+152,282,Heart Issue,3561.05
+153,68,Fracture,1689.72
+154,117,Heart Issue,5006.19
+155,46,Fracture,1582.59
+156,14,Skin Allergy,5117.15
+157,158,Skin Allergy,9242.82
+158,134,Heart Issue,5447.3
+159,121,Infection,6356.75
+160,266,Heart Issue,1988.07
+161,275,Fracture,915.49
+162,131,Heart Issue,1552.68
+163,15,Flu,6186.05
+164,20,Fracture,1402.61
+165,83,Fracture,4071.93
+166,260,Infection,5725.87
+167,190,Skin Allergy,4192.2
+168,25,Fracture,2055.0
+169,242,Skin Allergy,3101.02
+170,101,Heart Issue,9319.02
+171,293,Flu,6921.83
